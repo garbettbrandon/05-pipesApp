@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+/* Set the default font for the whole app */
+body {
+  font-family: "Century Gothic", sans-serif; /* Or any font you want */
+}
